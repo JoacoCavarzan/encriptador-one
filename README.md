@@ -1,6 +1,10 @@
 
 # 🚀 Challenge Encriptador | Oracle + Alura
 
+![Encript](https://github.com/user-attachments/assets/b2f508fc-32a1-4798-9d82-7db08f29dde7)
+
+![Encript2](https://github.com/user-attachments/assets/d4c42ecd-558b-43a7-a1d1-6a6c4381dcce)
+
 # 📒 Diccionarios
 ## 🔒 Diccionario de encriptacion
 | 🔑 Llave | ✏️ Reemplazo |
