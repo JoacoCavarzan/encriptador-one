@@ -58,7 +58,7 @@ btnCopy.addEventListener('click', copy);
 // Función inversa, para desencriptar
 function desencriptarFrase() {
   let fraseDesencriptada = textInput.value.
-                                        replaceAll("ufat", "u").
+                                        replaceAll("ufat", "u"). 
                                         replaceAll("ober", "o").
                                         replaceAll("ai", "a").
                                         replaceAll("imes", "i").
