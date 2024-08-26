@@ -66,9 +66,6 @@ inserción del texto que será encriptado o desencriptado, y el usuario debe pod
 ## 🚀 Deploy:
 Pueden visitar el sitio haciendo click en el siguiente [link]().
 
-![Preview](https://i.ibb.co/47KJYGB/127-0-0-1-5500-index-html-4.png)
+![deploy]()
 
 ---
-
-## 🏅 Insignia por finalizar el challenge:
-![Badge](https://i.ibb.co/JjnSpnN/Badge-Sharer-Alura-Challenge-Oracle-ONE-2000x2000-V3.png)
