@@ -14,7 +14,7 @@ const regexInput = /^[a-z0-9 ]*$/;
 let mensaje = true;
 let resultado = false;
 
-// Evalúa la frase usando una expresión regular
+// Evalua la frase usando una expresión regular
 function encriptarFrase() {
   if (!regexInput.test(textInput.value) || textInput.value.length === 0) {
     sugerencia.style.display = "flex";
