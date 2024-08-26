@@ -266,7 +266,7 @@ a .bx {
     gap: 1.5rem;
   }
 }
-
+ 
 @media screen and (min-width: 769px) and (max-width: 1200px) {
   .container {
     justify-content: center;
